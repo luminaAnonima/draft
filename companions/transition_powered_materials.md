@@ -50,7 +50,7 @@ It’s an invitation to notice what’s already there.
 
 ---
 
-[A Sealed Humidity Chamber – Concept Note](/companions/transition_powered_materials.md)
+[A Sealed Humidity Chamber – Concept Note](/companions/a_sealed_humidity_chamber_concept_note.md)
 
 ---
 
