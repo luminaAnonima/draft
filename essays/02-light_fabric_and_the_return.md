@@ -27,7 +27,7 @@ When the pause lifts, clarity remains.
 
 ---
 
-[Essay 3: Entanglement and the Hidden Fabric](/essays/01-the_dissonance_of_difference.md)
+[Essay 3: Entanglement and the Hidden Fabric](/essays/03-entanglement_and_the_hidden-fabric.md)
 
 ---
 
