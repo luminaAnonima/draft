@@ -71,10 +71,6 @@ But if something hums, even faintly -
 
 ---
 
-[A Sealed Humidity Chamber - Concept Note](/companions/a_sealed_humidity_chamber_concept_note.md)
-
----
-
 The complete and final version of this work is available here:
 https://github.com/luminaAnonima/fabric-of-light
 
