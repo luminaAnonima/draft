@@ -49,7 +49,7 @@ Helping is how we walk the path to Eden.
 
 ---
 
-[Read the Epilogue: *Note from the Threshold*](THRESHOLD.md)
+[Read the Epilogue: *Note from the Threshold*](/companions/note_from_the_threshold.md)
 
 ---
 
