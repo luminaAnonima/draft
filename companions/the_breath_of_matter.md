@@ -44,7 +44,7 @@ the energy of becoming.
 
 ---
 
-[Read the Technical Note](TECHNICAL-NOTE.md)
+[Appendix: Transition-Powered Materials](/companions/transition_powered_materials.md)
 
 ---
 
