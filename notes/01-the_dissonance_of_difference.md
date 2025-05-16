@@ -50,7 +50,7 @@ To echo harmony, not noise.
 
 ---
 
-[Essay 7: Suffering and the Ethics of Alignment](/essays/07-suffering_and_the_ethics_of_alignment.md)
+[Essay 7: Power and the Fabric](/essays/07-power_and_the_fabric.md)
 
 ---
 
