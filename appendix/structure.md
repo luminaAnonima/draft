@@ -70,8 +70,8 @@
 ## Applied Reflection
 
 - [The Breath of Matter](/companions/the_breath_of_matter.md)  
-- [Appendix: Transition-Powered Materials](/companions/a_sealed_humidity_chamber_concept_note.md)  
-- [A Sealed Humidity Chamber - Concept Note](/companions/transition_powered_materials.md)
+- [Appendix: Transition-Powered Materials](/companions/transition_powered_materials.md)  
+- [A Sealed Humidity Chamber - Concept Note](/companions/a_sealed_humidity_chamber_concept_note.md)
 
 ---
 
