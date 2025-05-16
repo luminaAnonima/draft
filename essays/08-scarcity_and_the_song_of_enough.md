@@ -94,7 +94,7 @@ Eden hums in every hand that shares.
 
 ---
 
-[Field Note 4: Power, Faith, and the Weight of Institutions](/notes/04-power_faith_and_the_weight_of_institutions.md)
+[Field Note: When Care is Treated as Disruption](/notes/06-when_care_is_treated_as_disruption.md)
 
 ---
 
