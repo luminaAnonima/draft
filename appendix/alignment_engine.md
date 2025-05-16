@@ -163,6 +163,10 @@ evaluation:
 
 ---
 
+![Case Study Sketch](/images/case_study_sketch.png)
+
+---
+
 ## Adaptability Notes
 
 - **Tensions between rules** should be documented, not erased. If R5 contradicts R7, ask: _Which harm is deeper? Which thread can be rewoven later?_
