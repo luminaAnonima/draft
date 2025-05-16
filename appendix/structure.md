@@ -13,7 +13,7 @@
 ## Core Text
 
 ### Structure Overview
-- [Structure of the Work](/essays/structure.md) — This file
+- [Structure of the Work](/appendix/structure.md) — This file
 
 ---
 
