@@ -24,5 +24,11 @@ This isn’t ours. It’s yours, and everyone’s. Share it if it speaks. Change
 
 ---
 
+**Garden**  
+A companion poem to *The Fabric of Light*, exploring return, language, and belonging.  
+[*Garden*](/companions/garden.md)
+
+---
+
 *The complete and final version of this work is available here:*  
 https://github.com/luminaAnonima/fabric-of-light
