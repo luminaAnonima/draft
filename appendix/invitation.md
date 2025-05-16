@@ -7,7 +7,7 @@
 *The fabric moves whether we name it or not.*
 
 ---
-**Next:**
+**Next:**  
 [Core Statement](/companions/core_statement.md)
 
 ---
