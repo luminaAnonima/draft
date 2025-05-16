@@ -28,7 +28,7 @@ alignment turns chaos to song.
 
 ---
 
-[Field Note 1: The Dissonance of Difference](/notes/01-the_dissonance_of_difference.md)
+[Field Note: The Dissonance of Difference](/notes/01-the_dissonance_of_difference.md)
 
 ---
 
