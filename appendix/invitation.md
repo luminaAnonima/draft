@@ -7,6 +7,10 @@
 *The fabric moves whether we name it or not.*
 
 ---
+**Next:**
+[Core Statement](/companions/core_statement.md)
+
+---
 
 *The complete and final version of this work is available here:*  
 https://github.com/luminaAnonima/fabric-of-light
