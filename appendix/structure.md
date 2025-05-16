@@ -36,19 +36,19 @@
 4. [The Fabric Across Scales](/essays/04-the_fabric_across_scales.md) — From atoms to galaxies, a unified field of pattern.  
 5. [Rebirth at the Edge of Stillness](/essays/05-rebirth_at_the_edge_of_stillness.md) — Transformation through death, stillness, and renewal.  
 6. [The Fabric’s Warp](/essays/06-the_fabrics_warp.md) — Distortion, tension, and healing in the weave.  
-   - [The Dissonance of Difference](/notes/01-the_dissonance_of_difference.md) — Misused gifts as distortion in the social field.  
+   - [Field Note: The Dissonance of Difference](/notes/01-the_dissonance_of_difference.md) — Misused gifts as distortion in the social field.  
 7. [Power and the Fabric](/essays/07-power_and_the_fabric.md) — The ethics of power, hierarchy, and balance.  
-   - [Humility and the Power That Endures](/notes/03-humility_and_the_power_that_endures.md) — Quiet strength and non-dominant legacy.  
+   - [Field Note: Humility and the Power That Endures](/notes/03-humility_and_the_power_that_endures.md) — Quiet strength and non-dominant legacy.  
 8. [Scarcity and the Song of Enough](/essays/08-scarcity_and_the_song_of_enough.md) — Economics, collapse, and resonance through generosity.  
-   - [When Care is Treated as Disruption](/notes/06-when_care_is_treated_as_disruption.md) — Systemic neglect of fragility and rest.  
+   - [Field Note: When Care is Treated as Disruption](/notes/06-when_care_is_treated_as_disruption.md) — Systemic neglect of fragility and rest.  
 9. [Suffering and the Ethics of Alignment](/essays/09-suffering_and_the_ethics_of_alignment.md) — Aligning action with the field to reduce harm.  
-   - [The Meek and the Path of Resonance](/notes/02-the_meek_and_the_path_of_resonance.md) — Tuning and leadership through humility.  
+   - [Field Note: The Meek and the Path of Resonance](/notes/02-the_meek_and_the_path_of_resonance.md) — Tuning and leadership through humility.  
 10. [Practices of Resonance](/essays/10-practices_of_resonance.md) — Daily ethical tuning through small, intentional acts.  
-    - [Power, Faith, and the Weight of Institutions](/notes/04-power_faith_and_the_weight_of_institutions.md) — Institutions bent by power.  
+    - [Field Note: Power, Faith, and the Weight of Institutions](/notes/04-power_faith_and_the_weight_of_institutions.md) — Institutions bent by power.  
 11. [Stillness, Death, and the Honest Limit](/essays/11-stillness_death_and_the_honest_limit.md) — Mortality, cessation, and the hum beneath endings.  
 12. [Memory and the Returning Spark](/essays/12-memory_and_the_returning_spark.md) — On continuity, echo, and memory in the field.  
 13. [Thought as Thread](/essays/13-thought_as_thread.md) — Cognition as ripple; inner ethics as shaping force.  
-    - [When the Thread Snapped](/notes/05-when_the_thread_snapped.md) — A personal memory of communal loss.
+    - [Field Note: When the Thread Snapped](/notes/05-when_the_thread_snapped.md) — A personal memory of communal loss.
 
 14. [Poetic Summary](/essays/poetic_summary.md)
 
