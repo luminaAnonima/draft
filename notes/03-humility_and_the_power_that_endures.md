@@ -90,7 +90,7 @@ Let us remember: Wealth is not what we hold, but what we give. Power is not what
 
 ---
 
-[Field Note: When Care Is Treated as Disruption](/notes/06-when_care_is_treated_as_disruption.md)
+[Essay 8: Scarcity and the Song of Enough]([/essays/08-scarcity_and_the_song_of_enough.md)
 
 ---
 
