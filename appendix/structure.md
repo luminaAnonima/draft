@@ -15,6 +15,13 @@
 ### Structure Overview
 - [Structure of the Work](/essays/structure.md) — Explanation of essays, field notes, and companions
 
+---
+
+## Invitation
+
+- [Invitation](/appendix/invitation.md)
+
+---
 
 ### Core Statement
 - [Everything begins as light - raw energy](/companions/core_statement.md)
@@ -56,6 +63,8 @@
 12. [Essay 12: Memory and the Returning Spark](/essays/12-memory_and_the_returning_spark.md)  
 13. [Essay 13: Thought as Thread](/essays/13-thought_as_thread.md)
 - [Field Note: When the Thread Snapped](/notes/05-when_the_thread_snapped.md)  
+
+14. [Poetic Summary](/essays/poetic_summary.md)
 
 ---
 
