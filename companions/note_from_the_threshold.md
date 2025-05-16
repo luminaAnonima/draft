@@ -35,7 +35,7 @@ They always were.
 ---
 
 *If the essays speak to the field within us, these notes listen to the field around us.*
-[The Breath of Matter → BREATH.md](/companions/BREATH.md)
+[The Breath of Matter](/companions/the_breath_of_matter.md)
 
 ---
 
