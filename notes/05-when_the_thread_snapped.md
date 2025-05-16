@@ -35,7 +35,7 @@ The thread isn't gone. It's waiting to be picked up.
 
 ---
 
-[Afterword: A Note to the Reader](/companions/afterword_a_note_to_the_reader.md)
+[Poetic Summary](/essays/poetic_summary.md)
 
 ---
 
