@@ -17,6 +17,17 @@
 
 ---
 
+## Invitation
+
+- [Invitation](/appendix/invitation.md)
+
+---
+
+### Core Statement
+- [Everything begins as light - raw energy](/companions/core_statement.md)
+
+---
+
 ## Core Essays (`/essays` + `/notes` interleaved)
 
 1. [Ripples on the Fabric](/essays/01-ripples_on_the_fabric.md) — On emergence, vibration, and the metaphysics of relationality.  
