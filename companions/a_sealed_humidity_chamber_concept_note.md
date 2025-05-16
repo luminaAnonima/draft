@@ -67,6 +67,10 @@ But if something hums, even faintly -
 
 ---
 
+[A Sealed Humidity Chamber - Concept Note](/companions/a_sealed_humidity_chamber_concept_note.md)
+
+---
+
 ![Test rig](/images/test-rig-10.jpg)
 
 ---
