@@ -48,13 +48,14 @@ Anyone with the means to test, critique, or improve the idea is welcome to build
 This is not proprietary.  
 It’s an invitation to notice what’s already there.
 
----
-
-[A Sealed Humidity Chamber – Concept Note](/companions/a_sealed_humidity_chamber_concept_note.md)
 
 ---
 
 ![Test rig](/images/test-rig-04.jpg)
+
+---
+
+[A Sealed Humidity Chamber – Concept Note](/companions/a_sealed_humidity_chamber_concept_note.md)
 
 ---
 
