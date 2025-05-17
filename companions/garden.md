@@ -48,8 +48,8 @@ But we need guides  -  and the only true guides are those we help.
 Helping is how we walk the path to Eden.
 
 ---
-
-[Read the Epilogue: *Note from the Threshold*](/companions/note_from_the_threshold.md)
+Epilogue:  
+[*Note from the Threshold*](/companions/note_from_the_threshold.md)
 
 ---
 
